@@ -23,6 +23,7 @@
     "type": "live",
     "url": "https://raw.githubusercontent.com/wassimmeri/toca/refs/heads/%40main/images/Character_walks,_waves,_and_jumps_20260923211047.mp4",
     "thumbnail": "https://raw.githubusercontent.com/wassimmeri/toca/refs/heads/%40main/images/7.png"
+      "is_locked": true
   },
   {
     "id": "403",
@@ -39,6 +40,7 @@
     "type": "live",
     "url": "https://raw.githubusercontent.com/wassimmeri/toca/refs/heads/%40main/images/48.mp4",
     "thumbnail": "https://cdn.jsdelivr.net/gh/wassimmeri/toca@main/images/48.webp"
+       "is_locked": true
   },
     {
     "id": "427",
@@ -47,6 +49,7 @@
     "type": "live",
     "url": "https://raw.githubusercontent.com/wassimmeri/toca/refs/heads/%40main/images/49.mp4",
     "thumbnail": "https://cdn.jsdelivr.net/gh/wassimmeri/toca@main/images/49.webp"
+       "is_locked": true
   },
   {
     "id": "428",
@@ -119,6 +122,7 @@
     "type": "live",
     "url": "https://raw.githubusercontent.com/wassimmeri/toca/refs/heads/%40main/images/58.mp4",
     "thumbnail": "https://cdn.jsdelivr.net/gh/wassimmeri/toca@main/images/58.jpg"
+        "is_locked": true
   },
      {
     "id": "437",
@@ -127,6 +131,7 @@
     "type": "live",
     "url": "https://raw.githubusercontent.com/wassimmeri/toca/refs/heads/%40main/images/59.mp4",
     "thumbnail": "https://cdn.jsdelivr.net/gh/wassimmeri/toca@main/images/59.jpg"
+        "is_locked": true
   },
      {
     "id": "438",
@@ -175,6 +180,7 @@
     "type": "live",
     "url": "https://r2.chiikawawallpaper.com/live/20260812/ea2cd8f01c15d5a553bf1118181cceec.mp4",
     "thumbnail": "https://r2.chiikawawallpaper.com/live/20260812/b5dffaa9b0b47ad4d5cfc393e6b6cd4b.jpg"
+       "is_locked": true
   },
    {
     "id": "425",
@@ -183,6 +189,7 @@
     "type": "live",
     "url": "https://raw.githubusercontent.com/wassimmeri/toca/refs/heads/%40main/images/Toca_Boca_World_live_wallpaper_20261002235613.mp4",
     "thumbnail": "https://raw.githubusercontent.com/wassimmeri/toca/refs/heads/%40main/images/10.png"
+      "is_locked": true
   },
    {
     "id": "412",
@@ -541,12 +548,14 @@
     "name": "Toca Boca",
     "isNew": false,
     "url": "https://www.datocms-assets.com/113033/1743673050-wallpaper_portrait_01.png"
+       "is_locked": true
   },
   {
     "id": "6",
     "name": "Toca Boca",
     "isNew": false,
     "url": "https://www.datocms-assets.com/113033/1743673050-wallpaper_portrait_01.png"
+     "is_locked": true
   },
   {
     "id": "7",
@@ -817,6 +826,7 @@
     "name": "TOCA BOCA",
     "isNew": true,
     "url": "https://cdn.jsdelivr.net/gh/wassimmeri/toca@main/images/33.webp"
+     "is_locked": true
   },
   {
     "id": "52",
@@ -841,12 +851,14 @@
     "name": "TOCA BOCA",
     "isNew": true,
     "url": "https://cdn.jsdelivr.net/gh/wassimmeri/toca@main/images/37.webp"
+     "is_locked": true
   },
   {
     "id": "56",
     "name": "TOCA BOCA",
     "isNew": true,
     "url": "https://cdn.jsdelivr.net/gh/wassimmeri/toca@main/images/38.webp"
+     "is_locked": true
   },
   {
     "id": "57",
@@ -967,6 +979,7 @@
     "name": "TOCA BOCA",
     "isNew": true,
     "url": "https://cdn.jsdelivr.net/gh/wassimmeri/toca@main/images/51.jpg"
+      "is_locked": true
   },
    {
     "id": "77",
@@ -1027,12 +1040,14 @@
     "name": "CHIIKAWA",
     "isNew": true,
     "url": "https://r2.chiikawawallpaper.com/wallpaper/mobile/20260810/369120b83c08be1e571aa73abb2db0f7_thumb_w800.webp"
+      "is_locked": true
   },
    {
     "id": "87",
     "name": "CHIIKAWA",
     "isNew": true,
     "url": "https://r2.chiikawawallpaper.com/wallpaper/wallpaper/4k/20250828120611_a1d1789b62948f064ee10884b3d77c70-600.jpg"
+      "is_locked": true
   },
    {
     "id": "88",
